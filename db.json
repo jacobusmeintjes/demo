@@ -1,7 +1,8 @@
 {
-  "user" : {
-  "firstName": "Jacobus",
-  "lastName": "Meintjes",
-  "id": 1
+  "user": 
+  {
+    "firstName": "Jacobus",
+    "lastName": "Meintjes",
+    "id": 1
   }
 }
